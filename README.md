@@ -45,3 +45,7 @@ Each client has two threads:
 <br>
 
 See [IMPLEMENTATION.md](IMPLEMENTATION.md) for detailed information about the program's architecture and implementation.
+
+***
+
+Developed as part of the Parallel and Distributed Algorithms course at UNSTPB.
